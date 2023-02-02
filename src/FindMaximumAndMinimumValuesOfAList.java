@@ -14,4 +14,5 @@ public class FindMaximumAndMinimumValuesOfAList {
             Arrays.sort(list);
             return list[list.length - 1];
         }
+    }
 }
